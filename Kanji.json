@@ -1,0 +1,2756 @@
+[
+  {
+    "Kanji": "翻訳",
+    "Romanji": "Hon'yaku",
+    "Vietnamese": "Phiên Dịch | Dịch Thuật",
+    "English": "Translation"
+  },
+  {
+    "Kanji": "通訳",
+    "Romanji": "Tsūyaku",
+    "Vietnamese": "Thông Dịch",
+    "English": "Interpretation"
+  },
+  {
+    "Kanji": "言い訳",
+    "Romanji": "Iiwake",
+    "Vietnamese": "Biện Minh | Lý Do",
+    "English": "Excuse | Justification"
+  },
+  {
+    "Kanji": "訳す",
+    "Romanji": "Yakusu",
+    "Vietnamese": "Dịch",
+    "English": "To Translate"
+  },
+  {
+    "Kanji": "説明",
+    "Romanji": "Setsumei",
+    "Vietnamese": "Giải Thích | Thuyết Minh",
+    "English": "Explanation | Description"
+  },
+  {
+    "Kanji": "小説",
+    "Romanji": "Shōsetsu",
+    "Vietnamese": "Tiểu Thuyết",
+    "English": "Novel | Story"
+  },
+  {
+    "Kanji": "伝説",
+    "Romanji": "Densetsu",
+    "Vietnamese": "Truyền Thuyết",
+    "English": "Legend | Folklore"
+  },
+  {
+    "Kanji": "初級",
+    "Romanji": "Shokyū",
+    "Vietnamese": "Sơ Cấp",
+    "English": "Elementary Level | Beginner"
+  },
+  {
+    "Kanji": "中級",
+    "Romanji": "Chūkyū",
+    "Vietnamese": "Trung Cấp",
+    "English": "Intermediate Level"
+  },
+  {
+    "Kanji": "上級",
+    "Romanji": "Jōkyū",
+    "Vietnamese": "Thượng Cấp | Cao Cấp",
+    "English": "Advanced Level"
+  },
+  {
+    "Kanji": "高級",
+    "Romanji": "Kōkyū",
+    "Vietnamese": "Cao Cấp | Chất Lượng Cao",
+    "English": "High Grade | Luxury"
+  },
+  {
+    "Kanji": "〜が続く",
+    "Romanji": "Ga Tsuzuku",
+    "Vietnamese": "Tiếp Tục | Kéo Dài",
+    "English": "To Continue | To Last"
+  },
+  {
+    "Kanji": "〜を続ける",
+    "Romanji": "O Tsuzukeru",
+    "Vietnamese": "Tiếp Tục",
+    "English": "To Continue | To Go On"
+  },
+  {
+    "Kanji": "連続する",
+    "Romanji": "Renzoku Suru",
+    "Vietnamese": "Liên Tục | Liên Tiếp",
+    "English": "To Be Continuous | To Be Serial"
+  },
+  {
+    "Kanji": "努力",
+    "Romanji": "Doryoku",
+    "Vietnamese": "Nỗ Lực | Cố Gắng",
+    "English": "Effort | Hard Work"
+  },
+  {
+    "Kanji": "努める",
+    "Romanji": "Tsutomeru",
+    "Vietnamese": "Cố Gắng | Nỗ Lực",
+    "English": "To Strive | To Endeavor"
+  },
+  {
+    "Kanji": "効く",
+    "Romanji": "Kiku",
+    "Vietnamese": "Có Tác Dụng | Có Hiệu Quả",
+    "English": "To Be Effective | To Work"
+  },
+  {
+    "Kanji": "効果",
+    "Romanji": "Kōka",
+    "Vietnamese": "Hiệu Quả",
+    "English": "Effect | Efficacy"
+  },
+  {
+    "Kanji": "無効",
+    "Romanji": "Mukō",
+    "Vietnamese": "Vô Hiệu",
+    "English": "Invalid | Null And Void"
+  },
+  {
+    "Kanji": "有効",
+    "Romanji": "Yūkō",
+    "Vietnamese": "Hữu Hiệu | Có Hiệu Lực",
+    "English": "Valid | Effective"
+  },
+  {
+    "Kanji": "解決",
+    "Romanji": "Kaiketsu",
+    "Vietnamese": "Giải Quyết",
+    "English": "Solution | Settlement"
+  },
+  {
+    "Kanji": "を解く",
+    "Romanji": "O Toku",
+    "Vietnamese": "Giải | Cởi Ra",
+    "English": "To Untie | To Solve"
+  },
+  {
+    "Kanji": "理解",
+    "Romanji": "Rikai",
+    "Vietnamese": "Lý Giải | Hiểu",
+    "English": "Understanding | Comprehension"
+  },
+  {
+    "Kanji": "を覚える",
+    "Romanji": "O Oboeru",
+    "Vietnamese": "Nhớ | Học Thuộc",
+    "English": "To Memorize | To Remember"
+  },
+  {
+    "Kanji": "感覚する",
+    "Romanji": "Kankaku Suru",
+    "Vietnamese": "Cảm Giác",
+    "English": "To Feel | Sense"
+  },
+  {
+    "Kanji": "目覚まし",
+    "Romanji": "Mezamashi",
+    "Vietnamese": "Đồng Hồ Báo Thức",
+    "English": "Alarm Clock"
+  },
+  {
+    "Kanji": "視覚",
+    "Romanji": "Shikaku",
+    "Vietnamese": "Thị Giác",
+    "English": "Sense Of Sight"
+  },
+  {
+    "Kanji": "忘れる",
+    "Romanji": "Wasureru",
+    "Vietnamese": "Quên",
+    "English": "To Forget"
+  },
+  {
+    "Kanji": "忘年会",
+    "Romanji": "Bōnenkai",
+    "Vietnamese": "Tiệc Cuối Năm",
+    "English": "Year-end Party"
+  },
+  {
+    "Kanji": "忘れ物",
+    "Romanji": "Wasuremono",
+    "Vietnamese": "Đồ Bỏ Quên",
+    "English": "Lost Item | Forgotten Item"
+  },
+  {
+    "Kanji": "要る",
+    "Romanji": "Iru",
+    "Vietnamese": "Cần Thiết",
+    "English": "To Be Needed"
+  },
+  {
+    "Kanji": "要約",
+    "Romanji": "Yōyaku",
+    "Vietnamese": "Tóm Tắt | Tóm Lược",
+    "English": "Summary | Abstract"
+  },
+  {
+    "Kanji": "必要",
+    "Romanji": "Hitsuyō",
+    "Vietnamese": "Cần Thiết",
+    "English": "Necessary | Essential"
+  },
+  {
+    "Kanji": "重要",
+    "Romanji": "Jūyō",
+    "Vietnamese": "Quan Trọng",
+    "English": "Important | Significant"
+  },
+  {
+    "Kanji": "卒業",
+    "Romanji": "Sotsugyō",
+    "Vietnamese": "Tốt Nghiệp",
+    "English": "Graduation"
+  },
+  {
+    "Kanji": "新卒",
+    "Romanji": "Shinsotsu",
+    "Vietnamese": "Mới Tốt Nghiệp",
+    "English": "New Graduate"
+  },
+  {
+    "Kanji": "卒論",
+    "Romanji": "Sotsuron",
+    "Vietnamese": "Luận Văn Tốt Nghiệp",
+    "English": "Graduation Thesis"
+  },
+  {
+    "Kanji": "欠席",
+    "Romanji": "Kesseki",
+    "Vietnamese": "Vắng Mặt",
+    "English": "Absence | Non-attendance"
+  },
+  {
+    "Kanji": "〜が欠ける",
+    "Romanji": "Ga Kakeru",
+    "Vietnamese": "Thiếu | Khuyết",
+    "English": "To Be Missing | To Be Lacking"
+  },
+  {
+    "Kanji": "〜を欠く",
+    "Romanji": "O Kaku",
+    "Vietnamese": "Thiếu | Khuyết",
+    "English": "To Lack | To Be Short Of"
+  },
+  {
+    "Kanji": "授業",
+    "Romanji": "Jugyō",
+    "Vietnamese": "Tiết Học | Bài Giảng",
+    "English": "Class | Lesson"
+  },
+  {
+    "Kanji": "授かる",
+    "Romanji": "Sazukaru",
+    "Vietnamese": "Được Ban Cho | Thụ Lĩnh",
+    "English": "To Be Granted | To Be Given"
+  },
+  {
+    "Kanji": "授ける",
+    "Romanji": "Sazukeru",
+    "Vietnamese": "Truyền Thụ | Ban Cho",
+    "English": "To Grant | To Teach"
+  },
+  {
+    "Kanji": "教授",
+    "Romanji": "Kyōju",
+    "Vietnamese": "Giáo Sư",
+    "English": "Professor"
+  },
+  {
+    "Kanji": "産業",
+    "Romanji": "Sangyō",
+    "Vietnamese": "Công Nghiệp | Sản Nghiệp",
+    "English": "Industry"
+  },
+  {
+    "Kanji": "農業",
+    "Romanji": "Nōgyō",
+    "Vietnamese": "Nông Nghiệp",
+    "English": "Agriculture"
+  },
+  {
+    "Kanji": "残業",
+    "Romanji": "Zangyō",
+    "Vietnamese": "Làm Thêm Giờ | Tăng Ca",
+    "English": "Overtime Work"
+  },
+  {
+    "Kanji": "出席",
+    "Romanji": "Shusseki",
+    "Vietnamese": "Tham Dự | Có Mặt",
+    "English": "Attendance | Presence"
+  },
+  {
+    "Kanji": "空席",
+    "Romanji": "Kūseki",
+    "Vietnamese": "Chỗ Trống",
+    "English": "Empty Seat | Vacancy"
+  },
+  {
+    "Kanji": "客席",
+    "Romanji": "Kyakuseki",
+    "Vietnamese": "Ghế Khách | Ghế Khán Giả",
+    "English": "Guest Seat | Audience Seat"
+  },
+  {
+    "Kanji": "復習",
+    "Romanji": "Fukushū",
+    "Vietnamese": "Ôn Tập",
+    "English": "Review | Revision"
+  },
+  {
+    "Kanji": "回復",
+    "Romanji": "Kaifuku",
+    "Vietnamese": "Hồi Phục | Phục Hồi",
+    "English": "Recovery | Restoration"
+  },
+  {
+    "Kanji": "復活",
+    "Romanji": "Fukkatsu",
+    "Vietnamese": "Phục Hồi | Hồi Sinh",
+    "English": "Revival | Resurrection"
+  },
+  {
+    "Kanji": "復帰",
+    "Romanji": "Fukki",
+    "Vietnamese": "Phục Hồi | Trở Lại",
+    "English": "Return | Reinstatement"
+  },
+  {
+    "Kanji": "易しい",
+    "Romanji": "Yasashii",
+    "Vietnamese": "Dễ",
+    "English": "Easy | Simple"
+  },
+  {
+    "Kanji": "貿易",
+    "Romanji": "Bōeki",
+    "Vietnamese": "Thương Mại | Ngoại Thương",
+    "English": "Trade | Commerce"
+  },
+  {
+    "Kanji": "容易",
+    "Romanji": "Yōi",
+    "Vietnamese": "Dễ Dàng | Đơn Giản",
+    "English": "Easy | Simple"
+  },
+  {
+    "Kanji": "補う",
+    "Romanji": "Oginau",
+    "Vietnamese": "Bổ Sung | Bù Đắp",
+    "English": "To Supplement | To Compensate"
+  },
+  {
+    "Kanji": "補助",
+    "Romanji": "Hojo",
+    "Vietnamese": "Bổ Trợ | Hỗ Trợ",
+    "English": "Assistance | Subsidy"
+  },
+  {
+    "Kanji": "補習",
+    "Romanji": "Hoshū",
+    "Vietnamese": "Học Bù | Bổ Túc",
+    "English": "Supplementary Lesson"
+  },
+  {
+    "Kanji": "理由",
+    "Romanji": "Riyū",
+    "Vietnamese": "Lý Do",
+    "English": "Reason | Grounds"
+  },
+  {
+    "Kanji": "自由",
+    "Romanji": "Jiyū",
+    "Vietnamese": "Tự Do",
+    "English": "Freedom | Liberty"
+  },
+  {
+    "Kanji": "不自由",
+    "Romanji": "Fujiyū",
+    "Vietnamese": "Không Tự Do | Bất Tiện",
+    "English": "Inconvenience | Disability"
+  },
+  {
+    "Kanji": "経由",
+    "Romanji": "Keiyū",
+    "Vietnamese": "Thông Qua | Quá Cảnh",
+    "English": "Via | Through"
+  },
+  {
+    "Kanji": "例えば",
+    "Romanji": "Tatoeba",
+    "Vietnamese": "Ví Dụ",
+    "English": "For Example"
+  },
+  {
+    "Kanji": "例文",
+    "Romanji": "Reibun",
+    "Vietnamese": "Câu Ví Dụ",
+    "English": "Example Sentence"
+  },
+  {
+    "Kanji": "実例",
+    "Romanji": "Jitsurei",
+    "Vietnamese": "Ví Dụ Thực Tế",
+    "English": "Concrete Example"
+  },
+  {
+    "Kanji": "例年",
+    "Romanji": "Reinen",
+    "Vietnamese": "Hàng Năm | Thường Niên",
+    "English": "Average Year | Annually"
+  },
+  {
+    "Kanji": "種",
+    "Romanji": "Tane",
+    "Vietnamese": "Hạt | Giống",
+    "English": "Seed | Kind"
+  },
+  {
+    "Kanji": "種類",
+    "Romanji": "Shurui",
+    "Vietnamese": "Chủng Loại | Loại",
+    "English": "Kind | Sort | Variety"
+  },
+  {
+    "Kanji": "品種",
+    "Romanji": "Hinshu",
+    "Vietnamese": "Phẩm Chủng | Giống",
+    "English": "Brand | Kind | Grade"
+  },
+  {
+    "Kanji": "多種多様",
+    "Romanji": "Tashu Tayō",
+    "Vietnamese": "Đa Dạng | Nhiều Loại Khác Nhau",
+    "English": "Varied | Diverse"
+  },
+  {
+    "Kanji": "書類",
+    "Romanji": "Shorui",
+    "Vietnamese": "Tài Liệu | Giấy Tờ",
+    "English": "Document | Papers"
+  },
+  {
+    "Kanji": "分類",
+    "Romanji": "Bunrui",
+    "Vietnamese": "Phân Loại",
+    "English": "Classification | Grouping"
+  },
+  {
+    "Kanji": "人類",
+    "Romanji": "Jinrui",
+    "Vietnamese": "Nhân Loại | Loài Người",
+    "English": "Mankind | Humanity"
+  },
+  {
+    "Kanji": "類似語",
+    "Romanji": "Ruijigo",
+    "Vietnamese": "Từ Đồng Nghĩa",
+    "English": "Synonym"
+  },
+  {
+    "Kanji": "保存",
+    "Romanji": "Hozon",
+    "Vietnamese": "Bảo Quản | Lưu Trữ",
+    "English": "Preservation | Storage"
+  },
+  {
+    "Kanji": "共存",
+    "Romanji": "Kyōzon",
+    "Vietnamese": "Cùng Tồn Tại",
+    "English": "Coexistence"
+  },
+  {
+    "Kanji": "存続",
+    "Romanji": "Sonzoku",
+    "Vietnamese": "Tồn Tại | Tiếp Tục Tồn Tại",
+    "English": "Continuation | Persistence"
+  },
+  {
+    "Kanji": "存在",
+    "Romanji": "Sonzai",
+    "Vietnamese": "Tồn Tại | Sự Hiện Diện",
+    "English": "Existence | Being"
+  },
+  {
+    "Kanji": "在学",
+    "Romanji": "Zaigaku",
+    "Vietnamese": "Đang Học",
+    "English": "Enrolled In School"
+  },
+  {
+    "Kanji": "在庫",
+    "Romanji": "Zaiko",
+    "Vietnamese": "Tồn Kho",
+    "English": "Inventory | Stock"
+  },
+  {
+    "Kanji": "不在",
+    "Romanji": "Fuzai",
+    "Vietnamese": "Vắng Mặt | Vắng Nhà",
+    "English": "Absence"
+  },
+  {
+    "Kanji": "河川",
+    "Romanji": "Kasen",
+    "Vietnamese": "Sông Ngòi",
+    "English": "Rivers"
+  },
+  {
+    "Kanji": "銀河",
+    "Romanji": "Ginga",
+    "Vietnamese": "Ngân Hà",
+    "English": "Galaxy | Milky Way"
+  },
+  {
+    "Kanji": "運河",
+    "Romanji": "Unga",
+    "Vietnamese": "Kênh Đào",
+    "English": "Canal | Waterway"
+  },
+  {
+    "Kanji": "大河",
+    "Romanji": "Taiga",
+    "Vietnamese": "Sông Lớn",
+    "English": "Great River"
+  },
+  {
+    "Kanji": "流行する",
+    "Romanji": "Ryūkō Suru",
+    "Vietnamese": "Thịnh Hành | Phổ Biến",
+    "English": "To Be Popular | To Be In Fashion"
+  },
+  {
+    "Kanji": "流行る",
+    "Romanji": "Hayaru",
+    "Vietnamese": "Thịnh Hành | Phổ Biến",
+    "English": "To Be Popular | To Be In Vogue"
+  },
+  {
+    "Kanji": "〜を流す",
+    "Romanji": "O Nagasu",
+    "Vietnamese": "Làm Cho Chảy | Xả",
+    "English": "To Pour | To Flush"
+  },
+  {
+    "Kanji": "〜が流れる",
+    "Romanji": "Ga Nagareru",
+    "Vietnamese": "Chảy | Trôi",
+    "English": "To Flow | To Be Broadcast"
+  },
+  {
+    "Kanji": "深い",
+    "Romanji": "Fukai",
+    "Vietnamese": "Sâu | Sâu Sắc",
+    "English": "Deep | Profound"
+  },
+  {
+    "Kanji": "深夜",
+    "Romanji": "Shin'ya",
+    "Vietnamese": "Nửa Đêm",
+    "English": "Late At Night | Midnight"
+  },
+  {
+    "Kanji": "深海",
+    "Romanji": "Shinkai",
+    "Vietnamese": "Biển Sâu",
+    "English": "Deep Sea"
+  },
+  {
+    "Kanji": "深刻",
+    "Romanji": "Shinkoku",
+    "Vietnamese": "Nghiêm Trọng | Sâu Sắc",
+    "English": "Serious | Severe"
+  },
+  {
+    "Kanji": "浅い",
+    "Romanji": "Asai",
+    "Vietnamese": "Nông | Cạn",
+    "English": "Shallow"
+  },
+  {
+    "Kanji": "浅海",
+    "Romanji": "Senkai",
+    "Vietnamese": "Vùng Biển Nông",
+    "English": "Shallow Sea"
+  },
+  {
+    "Kanji": "浅薄",
+    "Romanji": "Senpaku",
+    "Vietnamese": "Nông Cạn | Hời Hợt",
+    "English": "Shallow | Superficial"
+  },
+  {
+    "Kanji": "暖かい",
+    "Romanji": "Attakai",
+    "Vietnamese": "Ấm Áp",
+    "English": "Warm"
+  },
+  {
+    "Kanji": "暖房",
+    "Romanji": "Danbō",
+    "Vietnamese": "Hệ Thống Sưởi",
+    "English": "Heating"
+  },
+  {
+    "Kanji": "温暖化",
+    "Romanji": "Ondanka",
+    "Vietnamese": "Hiện Tượng Ấm Lên",
+    "English": "Warming"
+  },
+  {
+    "Kanji": "季節",
+    "Romanji": "Kisetsu",
+    "Vietnamese": "Mùa",
+    "English": "Season"
+  },
+  {
+    "Kanji": "四季",
+    "Romanji": "Shiki",
+    "Vietnamese": "Bốn Mùa",
+    "English": "Four Seasons"
+  },
+  {
+    "Kanji": "太陽",
+    "Romanji": "Taiyō",
+    "Vietnamese": "Mặt Trời",
+    "English": "Sun"
+  },
+  {
+    "Kanji": "陽気",
+    "Romanji": "Yōki",
+    "Vietnamese": "Tâm Trạng Vui Vẻ | Thời Tiết",
+    "English": "Cheerful | Weather"
+  },
+  {
+    "Kanji": "陽光",
+    "Romanji": "Yōkō",
+    "Vietnamese": "Ánh Nắng",
+    "English": "Sunlight"
+  },
+  {
+    "Kanji": "大陸",
+    "Romanji": "Tairiku",
+    "Vietnamese": "Đại Lục | Châu Lục",
+    "English": "Continent"
+  },
+  {
+    "Kanji": "着陸",
+    "Romanji": "Chakuriku",
+    "Vietnamese": "Hạ Cánh",
+    "English": "Landing"
+  },
+  {
+    "Kanji": "上陸",
+    "Romanji": "Jōriku",
+    "Vietnamese": "Đổ Bộ | Lên Bờ",
+    "English": "Landing | Disembarkation"
+  },
+  {
+    "Kanji": "島国",
+    "Romanji": "Shimaguni",
+    "Vietnamese": "Quốc Đảo",
+    "English": "Island Nation"
+  },
+  {
+    "Kanji": "本島",
+    "Romanji": "Hontō",
+    "Vietnamese": "Đảo Chính",
+    "English": "Main Island"
+  },
+  {
+    "Kanji": "無人島",
+    "Romanji": "Mujintō",
+    "Vietnamese": "Đảo Hoang | Đảo Không Người",
+    "English": "Uninhabited Island"
+  },
+  {
+    "Kanji": "氷山",
+    "Romanji": "Hyōzan",
+    "Vietnamese": "Núi Băng | Tảng Băng",
+    "English": "Iceberg"
+  },
+  {
+    "Kanji": "氷水",
+    "Romanji": "Kōrisui",
+    "Vietnamese": "Nước Đá",
+    "English": "Iced Water"
+  },
+  {
+    "Kanji": "氷河",
+    "Romanji": "Hyōga",
+    "Vietnamese": "Sông Băng | Băng Hà",
+    "English": "Glacier"
+  },
+  {
+    "Kanji": "氷点下",
+    "Romanji": "Hyōtenka",
+    "Vietnamese": "Dưới Điểm Đóng Băng",
+    "English": "Below Freezing Point"
+  },
+  {
+    "Kanji": "上り坂",
+    "Romanji": "Noborizaka",
+    "Vietnamese": "Lên Dốc",
+    "English": "Uphill Road | Ascending Slope"
+  },
+  {
+    "Kanji": "下り坂",
+    "Romanji": "Kudarizaka",
+    "Vietnamese": "Xuống Dốc",
+    "English": "Downhill Road | Descending Slope"
+  },
+  {
+    "Kanji": "坂道",
+    "Romanji": "Sakamichi",
+    "Vietnamese": "Đường Dốc",
+    "English": "Hill Road | Slope"
+  },
+  {
+    "Kanji": "巨大",
+    "Romanji": "Kyodai",
+    "Vietnamese": "Khổng Lồ | To Lớn",
+    "English": "Huge | Giant"
+  },
+  {
+    "Kanji": "巨人",
+    "Romanji": "Kyojin",
+    "Vietnamese": "Người Khổng Lồ",
+    "English": "Giant"
+  },
+  {
+    "Kanji": "巨星",
+    "Romanji": "Kyosei",
+    "Vietnamese": "Ngôi Sao Lớn | Nhân Vật Vĩ Đại",
+    "English": "Giant Star | Great Man"
+  },
+  {
+    "Kanji": "巨万",
+    "Romanji": "Kyoman",
+    "Vietnamese": "Hàng Tỷ | Số Lượng Lớn",
+    "English": "Vast Number | Millions"
+  },
+  {
+    "Kanji": "天候",
+    "Romanji": "Tenkō",
+    "Vietnamese": "Thời Tiết",
+    "English": "Weather"
+  },
+  {
+    "Kanji": "気候",
+    "Romanji": "Kikō",
+    "Vietnamese": "Khí Hậu",
+    "English": "Climate"
+  },
+  {
+    "Kanji": "候補者",
+    "Romanji": "Kōhosha",
+    "Vietnamese": "Ứng Cử Viên | Người Được Đề Cử",
+    "English": "Candidate | Nominee"
+  },
+  {
+    "Kanji": "海底",
+    "Romanji": "Kaitei",
+    "Vietnamese": "Đáy Biển",
+    "English": "Seabed | Ocean Floor"
+  },
+  {
+    "Kanji": "川の底",
+    "Romanji": "Kawa No Soko",
+    "Vietnamese": "Đáy Sông",
+    "English": "Riverbed"
+  },
+  {
+    "Kanji": "海岸",
+    "Romanji": "Kaigan",
+    "Vietnamese": "Bờ Biển | Ven Biển",
+    "English": "Coast | Beach"
+  },
+  {
+    "Kanji": "形",
+    "Romanji": "Katachi",
+    "Vietnamese": "Hình Dạng | Hình Thức",
+    "English": "Shape | Form"
+  },
+  {
+    "Kanji": "人形",
+    "Romanji": "Ningyō",
+    "Vietnamese": "Búp Bê | Con Rối",
+    "English": "Doll | Puppet"
+  },
+  {
+    "Kanji": "地形図",
+    "Romanji": "Chikeizu",
+    "Vietnamese": "Bản Đồ Địa Hình",
+    "English": "Topographical Map"
+  },
+  {
+    "Kanji": "移る",
+    "Romanji": "Utsuru",
+    "Vietnamese": "Di Chuyển | Sang",
+    "English": "To Move | To Shift"
+  },
+  {
+    "Kanji": "移動",
+    "Romanji": "Idō",
+    "Vietnamese": "Di Động | Di Chuyển",
+    "English": "Movement | Transfer"
+  },
+  {
+    "Kanji": "移民",
+    "Romanji": "Imin",
+    "Vietnamese": "Di Dân",
+    "English": "Immigrant | Emigrant"
+  },
+  {
+    "Kanji": "移転",
+    "Romanji": "Iten",
+    "Vietnamese": "Chuyển Chỗ | Di Dời",
+    "English": "Relocation | Transfer"
+  },
+  {
+    "Kanji": "日程",
+    "Romanji": "Nittei",
+    "Vietnamese": "Lịch Trình",
+    "English": "Schedule | Itinerary"
+  },
+  {
+    "Kanji": "程度",
+    "Romanji": "Teido",
+    "Vietnamese": "Mức Độ | Khoảng",
+    "English": "Degree | Extent"
+  },
+  {
+    "Kanji": "過程",
+    "Romanji": "Katei",
+    "Vietnamese": "Quá Trình",
+    "English": "Process | Course"
+  },
+  {
+    "Kanji": "先程",
+    "Romanji": "Sakihodo",
+    "Vietnamese": "Lúc Nãy",
+    "English": "A Little While Ago | Just Now"
+  },
+  {
+    "Kanji": "神",
+    "Romanji": "Kami",
+    "Vietnamese": "Thần | Chúa",
+    "English": "God | Deity"
+  },
+  {
+    "Kanji": "神社",
+    "Romanji": "Jinja",
+    "Vietnamese": "Đền Thờ Thần Đạo",
+    "English": "Shinto Shrine"
+  },
+  {
+    "Kanji": "神経",
+    "Romanji": "Shinkei",
+    "Vietnamese": "Thần Kinh | Sự Nhạy Cảm",
+    "English": "Nerve | Sensitivity"
+  },
+  {
+    "Kanji": "お祭り",
+    "Romanji": "Omatsuri",
+    "Vietnamese": "Lễ Hội",
+    "English": "Festival"
+  },
+  {
+    "Kanji": "文化祭",
+    "Romanji": "Bunkasai",
+    "Vietnamese": "Lễ Hội Văn Hóa",
+    "English": "Cultural Festival"
+  },
+  {
+    "Kanji": "祭日",
+    "Romanji": "Saijitsu",
+    "Vietnamese": "Ngày Lễ",
+    "English": "National Holiday"
+  },
+  {
+    "Kanji": "大変",
+    "Romanji": "Taihen",
+    "Vietnamese": "Vất Vả | Rất",
+    "English": "Very | Difficult | Serious"
+  },
+  {
+    "Kanji": "変化",
+    "Romanji": "Henka",
+    "Vietnamese": "Thay Đổi | Biến Hóa",
+    "English": "Change | Variation"
+  },
+  {
+    "Kanji": "〜変わる",
+    "Romanji": "Kawaru",
+    "Vietnamese": "Thay Đổi | Khác Biệt",
+    "English": "To Change | To Be Different"
+  },
+  {
+    "Kanji": "〜変える",
+    "Romanji": "Kaeru",
+    "Vietnamese": "Thay Đổi",
+    "English": "To Change | To Alter"
+  },
+  {
+    "Kanji": "絵本",
+    "Romanji": "Ehon",
+    "Vietnamese": "Sách Ảnh | Truyện Tranh",
+    "English": "Picture Book"
+  },
+  {
+    "Kanji": "絵画",
+    "Romanji": "Kaiga",
+    "Vietnamese": "Tranh Ảnh",
+    "English": "Picture | Painting"
+  },
+  {
+    "Kanji": "油絵",
+    "Romanji": "Aburae",
+    "Vietnamese": "Tranh Sơn Dầu",
+    "English": "Oil Painting"
+  },
+  {
+    "Kanji": "迎える",
+    "Romanji": "Mukaeru",
+    "Vietnamese": "Đón | Chào Đón",
+    "English": "To Welcome | To Meet"
+  },
+  {
+    "Kanji": "歓迎",
+    "Romanji": "Kangei",
+    "Vietnamese": "Hoan Nghênh | Chào Đón",
+    "English": "Welcome"
+  },
+  {
+    "Kanji": "送迎バス",
+    "Romanji": "Sōgei Basu",
+    "Vietnamese": "Xe Buýt Đưa Đón",
+    "English": "Shuttle Bus | Pick-up And Drop-off Bus"
+  },
+  {
+    "Kanji": "団体",
+    "Romanji": "Dantai",
+    "Vietnamese": "Đoàn Thể | Tập Thể",
+    "English": "Group | Organization"
+  },
+  {
+    "Kanji": "団地",
+    "Romanji": "Danchi",
+    "Vietnamese": "Khu Tập Thể | Khu Chung Cư",
+    "English": "Housing Complex | Apartment Building"
+  },
+  {
+    "Kanji": "集団",
+    "Romanji": "Shūdan",
+    "Vietnamese": "Tập Đoàn | Nhóm",
+    "English": "Group | Mass"
+  },
+  {
+    "Kanji": "泊まる",
+    "Romanji": "Tomaru",
+    "Vietnamese": "Trọ Lại | Ngủ Lại",
+    "English": "To Stay The Night | To Lodge"
+  },
+  {
+    "Kanji": "を泊める",
+    "Romanji": "O Tōmeru",
+    "Vietnamese": "Cho Ai Ở Lại | Cho Trọ",
+    "English": "To Lodge | To Put Up"
+  },
+  {
+    "Kanji": "一泊",
+    "Romanji": "Ippaku",
+    "Vietnamese": "Một Đêm",
+    "English": "One Night's Stay"
+  },
+  {
+    "Kanji": "演じる",
+    "Romanji": "Enjiru",
+    "Vietnamese": "Diễn Xuất | Thực Hiện",
+    "English": "To Perform | To Play (A Role)"
+  },
+  {
+    "Kanji": "公演",
+    "Romanji": "Kōen",
+    "Vietnamese": "Công Diễn | Buổi Biểu Diễn",
+    "English": "Public Performance"
+  },
+  {
+    "Kanji": "演技",
+    "Romanji": "Engi",
+    "Vietnamese": "Kỹ Thuật Diễn Xuất",
+    "English": "Acting | Performance"
+  },
+  {
+    "Kanji": "演説",
+    "Romanji": "Enzetsu",
+    "Vietnamese": "Diễn Thuyết | Phát Biểu",
+    "English": "Speech | Address"
+  },
+  {
+    "Kanji": "芸術",
+    "Romanji": "Geijutsu",
+    "Vietnamese": "Nghệ Thuật",
+    "English": "Art"
+  },
+  {
+    "Kanji": "伝統芸能",
+    "Romanji": "Dentō Geinō",
+    "Vietnamese": "Nghệ Thuật Truyền Thống",
+    "English": "Traditional Performing Art"
+  },
+  {
+    "Kanji": "登る",
+    "Romanji": "Noboru",
+    "Vietnamese": "Leo | Trèo",
+    "English": "To Climb | To Ascend"
+  },
+  {
+    "Kanji": "登山",
+    "Romanji": "Tozan",
+    "Vietnamese": "Leo Núi",
+    "English": "Mountain Climbing"
+  },
+  {
+    "Kanji": "登場",
+    "Romanji": "Tōjō",
+    "Vietnamese": "Xuất Hiện | Lên Sân Khấu",
+    "English": "Entry | Appearance"
+  },
+  {
+    "Kanji": "基準",
+    "Romanji": "Kijun",
+    "Vietnamese": "Tiêu Chuẩn | Căn Cứ",
+    "English": "Standard | Basis"
+  },
+  {
+    "Kanji": "準決勝",
+    "Romanji": "Junkesshō",
+    "Vietnamese": "Bán Kết",
+    "English": "Semifinal"
+  },
+  {
+    "Kanji": "準備",
+    "Romanji": "Junbi",
+    "Vietnamese": "Chuẩn Bị",
+    "English": "Preparation"
+  },
+  {
+    "Kanji": "備える",
+    "Romanji": "Sonaeru",
+    "Vietnamese": "Chuẩn Bị | Trang Bị",
+    "English": "To Prepare | To Provide"
+  },
+  {
+    "Kanji": "備考",
+    "Romanji": "Bikō",
+    "Vietnamese": "Ghi Chú | Chú Thích",
+    "English": "Remarks | Notes"
+  },
+  {
+    "Kanji": "観光",
+    "Romanji": "Kankō",
+    "Vietnamese": "Tham Quan | Du Lịch",
+    "English": "Sightseeing | Tourism"
+  },
+  {
+    "Kanji": "主観的",
+    "Romanji": "Shukanteki",
+    "Vietnamese": "Chủ Quan",
+    "English": "Subjective"
+  },
+  {
+    "Kanji": "客観的",
+    "Romanji": "Kyakukanteki",
+    "Vietnamese": "Khách Quan",
+    "English": "Objective"
+  },
+  {
+    "Kanji": "〜が飛ぶ",
+    "Romanji": "Ga Tobu",
+    "Vietnamese": "Bay",
+    "English": "To Fly"
+  },
+  {
+    "Kanji": "〜を飛ばす",
+    "Romanji": "O Tobasu",
+    "Vietnamese": "Làm Cho Bay | Bỏ Qua",
+    "English": "To Fly | To Skip"
+  },
+  {
+    "Kanji": "飛行機",
+    "Romanji": "Hikōki",
+    "Vietnamese": "Máy Bay",
+    "English": "Airplane"
+  },
+  {
+    "Kanji": "舟",
+    "Romanji": "Fune",
+    "Vietnamese": "Thuyền",
+    "English": "Boat | Ship"
+  },
+  {
+    "Kanji": "漁舟",
+    "Romanji": "Gyoshū",
+    "Vietnamese": "Thuyền Đánh Cá",
+    "English": "Fishing Boat"
+  },
+  {
+    "Kanji": "仏",
+    "Romanji": "Hotoke",
+    "Vietnamese": "Phật",
+    "English": "Buddha"
+  },
+  {
+    "Kanji": "仏教",
+    "Romanji": "Bukkyō",
+    "Vietnamese": "Phật Giáo",
+    "English": "Buddhism"
+  },
+  {
+    "Kanji": "仏像",
+    "Romanji": "Butsuzō",
+    "Vietnamese": "Tượng Phật",
+    "English": "Buddhist Statue"
+  },
+  {
+    "Kanji": "九州",
+    "Romanji": "Kyūshū",
+    "Vietnamese": "Kyushu (Một Vùng Của Nhật Bản)",
+    "English": "Kyushu (A Region Of Japan)"
+  },
+  {
+    "Kanji": "三角州",
+    "Romanji": "Sankakusu",
+    "Vietnamese": "Châu Thổ",
+    "English": "Delta"
+  },
+  {
+    "Kanji": "欧米",
+    "Romanji": "Ōbei",
+    "Vietnamese": "Âu Mỹ",
+    "English": "Europe And America | The West"
+  },
+  {
+    "Kanji": "中欧",
+    "Romanji": "Chūō",
+    "Vietnamese": "Trung Âu",
+    "English": "Central Europe"
+  },
+  {
+    "Kanji": "東欧",
+    "Romanji": "Tōō",
+    "Vietnamese": "Đông Âu",
+    "English": "Eastern Europe"
+  },
+  {
+    "Kanji": "西欧",
+    "Romanji": "Seiō",
+    "Vietnamese": "Tây Âu",
+    "English": "Western Europe"
+  },
+  {
+    "Kanji": "路線バス",
+    "Romanji": "Ronsen Basu",
+    "Vietnamese": "Xe Buýt Tuyến Đường",
+    "English": "Route Bus"
+  },
+  {
+    "Kanji": "道路",
+    "Romanji": "Dōro",
+    "Vietnamese": "Con Đường | Đại Lộ",
+    "English": "Road | Street"
+  },
+  {
+    "Kanji": "線路",
+    "Romanji": "Senro",
+    "Vietnamese": "Đường Ray",
+    "English": "Railway Track"
+  },
+  {
+    "Kanji": "高速道路",
+    "Romanji": "Kōsoku Dōro",
+    "Vietnamese": "Đường Cao Tốc",
+    "English": "Expressway | Highway"
+  },
+  {
+    "Kanji": "〜が進む",
+    "Romanji": "Ga Susumu",
+    "Vietnamese": "Tiến Lên | Phát Triển",
+    "English": "To Advance | To Progress"
+  },
+  {
+    "Kanji": "進学",
+    "Romanji": "Shingaku",
+    "Vietnamese": "Học Lên Cao",
+    "English": "Entering A Higher Level School"
+  },
+  {
+    "Kanji": "進歩",
+    "Romanji": "Shinpo",
+    "Vietnamese": "Tiến Bộ",
+    "English": "Progress | Advance"
+  },
+  {
+    "Kanji": "進路",
+    "Romanji": "Shinro",
+    "Vietnamese": "Lộ Trình | Hướng Đi Tương Lai",
+    "English": "Course | Career Path"
+  },
+  {
+    "Kanji": "追う",
+    "Romanji": "Ou",
+    "Vietnamese": "Theo Đuổi | Săn Đuổi",
+    "English": "To Chase | To Follow"
+  },
+  {
+    "Kanji": "追加する",
+    "Romanji": "Tsuika Suru",
+    "Vietnamese": "Thêm Vào | Bổ Sung",
+    "English": "To Add | To Supplement"
+  },
+  {
+    "Kanji": "追いつく",
+    "Romanji": "Oitsuku",
+    "Vietnamese": "Bắt Kịp",
+    "English": "To Catch Up"
+  },
+  {
+    "Kanji": "〜が倒れる",
+    "Romanji": "Ga Taoreru",
+    "Vietnamese": "Bị Đổ | Ngã Xuống",
+    "English": "To Fall Down | To Collapse"
+  },
+  {
+    "Kanji": "〜を倒す",
+    "Romanji": "O Taosu",
+    "Vietnamese": "Đánh Bại | Hạ Gục",
+    "English": "To Defeat | To Overthrow"
+  },
+  {
+    "Kanji": "圧倒的",
+    "Romanji": "Attōteki",
+    "Vietnamese": "Áp Đảo | Vượt Trội",
+    "English": "Overwhelming | Predominant"
+  },
+  {
+    "Kanji": "倒産",
+    "Romanji": "Tōsan",
+    "Vietnamese": "Phá Sản",
+    "English": "Bankruptcy | Insolvency"
+  },
+  {
+    "Kanji": "右側",
+    "Romanji": "Migigawa",
+    "Vietnamese": "Phía Bên Phải",
+    "English": "Right Side"
+  },
+  {
+    "Kanji": "両側",
+    "Romanji": "Ryōgawa",
+    "Vietnamese": "Cả Hai Bên",
+    "English": "Both Sides"
+  },
+  {
+    "Kanji": "左側",
+    "Romanji": "Hidari Gawa",
+    "Vietnamese": "Phía Bên Trái",
+    "English": "Left Side"
+  },
+  {
+    "Kanji": "側面",
+    "Romanji": "Sokumen",
+    "Vietnamese": "Mặt Bên | Phương Diện",
+    "English": "Side | Flank"
+  },
+  {
+    "Kanji": "地位",
+    "Romanji": "Chii",
+    "Vietnamese": "Địa Vị | Vị Trí",
+    "English": "Status | Position"
+  },
+  {
+    "Kanji": "単位",
+    "Romanji": "Tan'i",
+    "Vietnamese": "Đơn Vị | Tín Chỉ",
+    "English": "Unit | Credit"
+  },
+  {
+    "Kanji": "学位",
+    "Romanji": "Gakui",
+    "Vietnamese": "Học Vị",
+    "English": "Academic Degree"
+  },
+  {
+    "Kanji": "突然",
+    "Romanji": "Totsuzen",
+    "Vietnamese": "Đột Nhiên | Bất Thình Lình",
+    "English": "Suddenly | Abruptly"
+  },
+  {
+    "Kanji": "衝突",
+    "Romanji": "Shōtotsu",
+    "Vietnamese": "Va Chạm | Xung Đột",
+    "English": "Collision | Conflict"
+  },
+  {
+    "Kanji": "意味",
+    "Romanji": "Imi",
+    "Vietnamese": "Ý Nghĩa",
+    "English": "Meaning | Significance"
+  },
+  {
+    "Kanji": "意見",
+    "Romanji": "Iken",
+    "Vietnamese": "Ý Kiến",
+    "English": "Opinion | View"
+  },
+  {
+    "Kanji": "無意識",
+    "Romanji": "Muishiki",
+    "Vietnamese": "Vô Ý Thức | Bất Tỉnh",
+    "English": "Unconscious | Unaware"
+  },
+  {
+    "Kanji": "注文",
+    "Romanji": "Chūmon",
+    "Vietnamese": "Đặt Hàng | Gọi Món",
+    "English": "Order | Request"
+  },
+  {
+    "Kanji": "注ぐ",
+    "Romanji": "Sosogu",
+    "Vietnamese": "Rót | Đổ Vào",
+    "English": "To Pour | To Irrigate"
+  },
+  {
+    "Kanji": "注射",
+    "Romanji": "Chūsha",
+    "Vietnamese": "Tiêm | Chích",
+    "English": "Injection | Shot"
+  },
+  {
+    "Kanji": "注意",
+    "Romanji": "Chūi",
+    "Vietnamese": "Chú Ý | Cảnh Báo",
+    "English": "Caution | Attention"
+  },
+  {
+    "Kanji": "置く",
+    "Romanji": "Oku",
+    "Vietnamese": "Đặt | Để",
+    "English": "To Place | To Put"
+  },
+  {
+    "Kanji": "配置",
+    "Romanji": "Haichi",
+    "Vietnamese": "Bố Trí | Sắp Đặt",
+    "English": "Arrangement | Placement"
+  },
+  {
+    "Kanji": "位置",
+    "Romanji": "Ichi",
+    "Vietnamese": "Vị Trí | Địa Điểm",
+    "English": "Location | Position"
+  },
+  {
+    "Kanji": "置き場",
+    "Romanji": "Okiba",
+    "Vietnamese": "Nơi Đặt | Chỗ Để",
+    "English": "Storage Place | Depot"
+  },
+  {
+    "Kanji": "三角",
+    "Romanji": "Sankaku",
+    "Vietnamese": "Tam Giác",
+    "English": "Triangle"
+  },
+  {
+    "Kanji": "四角",
+    "Romanji": "Shikaku",
+    "Vietnamese": "Tứ Giác | Hình Vuông",
+    "English": "Square | Rectangle"
+  },
+  {
+    "Kanji": "角",
+    "Romanji": "Kado | Tsuno",
+    "Vietnamese": "Góc | Sừng",
+    "English": "Corner | Horn"
+  },
+  {
+    "Kanji": "中央",
+    "Romanji": "Chūō",
+    "Vietnamese": "Trung Ương | Trung Tâm",
+    "English": "Center | Middle"
+  },
+  {
+    "Kanji": "中央大学",
+    "Romanji": "Chūō Daigaku",
+    "Vietnamese": "Đại Học Chuo",
+    "English": "Chuo University"
+  },
+  {
+    "Kanji": "自転車",
+    "Romanji": "Jitensha",
+    "Vietnamese": "Xe Đạp",
+    "English": "Bicycle"
+  },
+  {
+    "Kanji": "転ぶ",
+    "Romanji": "Korobu",
+    "Vietnamese": "Ngã | Té",
+    "English": "To Fall Down | To Tumble"
+  },
+  {
+    "Kanji": "回転",
+    "Romanji": "Kaiten",
+    "Vietnamese": "Xoay Vòng | Quay",
+    "English": "Rotation | Spin"
+  },
+  {
+    "Kanji": "転職",
+    "Romanji": "Tenshoku",
+    "Vietnamese": "Chuyển Việc",
+    "English": "Changing Jobs"
+  },
+  {
+    "Kanji": "直す",
+    "Romanji": "Naosu",
+    "Vietnamese": "Sửa Chữa | Chỉnh Sửa",
+    "English": "To Fix | To Correct"
+  },
+  {
+    "Kanji": "正直",
+    "Romanji": "Shōjiki",
+    "Vietnamese": "Trung Thực | Thật Thà",
+    "English": "Honest | Integrity"
+  },
+  {
+    "Kanji": "直行",
+    "Romanji": "Chokkō",
+    "Vietnamese": "Đi Thẳng | Trực Chỉ",
+    "English": "Direct Going | Non-stop"
+  },
+  {
+    "Kanji": "曲",
+    "Romanji": "Kyoku",
+    "Vietnamese": "Bản Nhạc | Ca Khúc",
+    "English": "Musical Piece | Song"
+  },
+  {
+    "Kanji": "曲がる",
+    "Romanji": "Magaru",
+    "Vietnamese": "Rẽ | Uốn Cong",
+    "English": "To Turn | To Bend"
+  },
+  {
+    "Kanji": "名曲",
+    "Romanji": "Meikyoku",
+    "Vietnamese": "Bản Nhạc Nổi Tiếng",
+    "English": "Famous Piece Of Music"
+  },
+  {
+    "Kanji": "橋",
+    "Romanji": "Hashi",
+    "Vietnamese": "Cầu",
+    "English": "Bridge"
+  },
+  {
+    "Kanji": "大橋",
+    "Romanji": "Ōhashi",
+    "Vietnamese": "Cầu Lớn",
+    "English": "Large Bridge"
+  },
+  {
+    "Kanji": "地下鉄の線",
+    "Romanji": "Chikatetsu No Sen",
+    "Vietnamese": "Tuyến Tàu Điện Ngầm",
+    "English": "Subway Line"
+  },
+  {
+    "Kanji": "逆に",
+    "Romanji": "Gyaku Ni",
+    "Vietnamese": "Ngược Lại | Trái Lại",
+    "English": "On The Contrary | Conversely"
+  },
+  {
+    "Kanji": "逆方向",
+    "Romanji": "Gyaku Hōkō",
+    "Vietnamese": "Hướng Ngược Lại",
+    "English": "Reverse Direction"
+  },
+  {
+    "Kanji": "逆効果",
+    "Romanji": "Gyaku Kōka",
+    "Vietnamese": "Phản Tác Dụng",
+    "English": "Adverse Effect | Counterproductive"
+  },
+  {
+    "Kanji": "横",
+    "Romanji": "Yoko",
+    "Vietnamese": "Bên Cạnh | Ngang",
+    "English": "Side | Horizontal"
+  },
+  {
+    "Kanji": "横になる",
+    "Romanji": "Yoko Ni Naru",
+    "Vietnamese": "Nằm Xuống",
+    "English": "To Lie Down"
+  },
+  {
+    "Kanji": "横断歩道",
+    "Romanji": "Ōdan Hodō",
+    "Vietnamese": "Vạch Sang Đường",
+    "English": "Pedestrian Crossing"
+  },
+  {
+    "Kanji": "〜を折る",
+    "Romanji": "O Oru",
+    "Vietnamese": "Bẻ | Gấp",
+    "English": "To Break | To Fold"
+  },
+  {
+    "Kanji": "〜が折れる",
+    "Romanji": "Ga Oreru",
+    "Vietnamese": "Bị Gãy | Bị Gấp",
+    "English": "To Be Broken | To Be Folded"
+  },
+  {
+    "Kanji": "折り紙",
+    "Romanji": "Origami",
+    "Vietnamese": "Nghệ Thuật Gấp Giấy",
+    "English": "Origami | Paper Folding"
+  },
+  {
+    "Kanji": "知識",
+    "Romanji": "Chishiki",
+    "Vietnamese": "Tri Thức | Kiến Thức",
+    "English": "Knowledge | Intellect"
+  },
+  {
+    "Kanji": "意識",
+    "Romanji": "Ishiki",
+    "Vietnamese": "Ý Thức | Nhận Thức",
+    "English": "Consciousness | Awareness"
+  },
+  {
+    "Kanji": "認識",
+    "Romanji": "Ninshiki",
+    "Vietnamese": "Nhận Thức | Công Nhận",
+    "English": "Recognition | Understanding"
+  },
+  {
+    "Kanji": "職業",
+    "Romanji": "Shokugyō",
+    "Vietnamese": "Nghề Nghiệp | Công Việc",
+    "English": "Occupation | Profession"
+  },
+  {
+    "Kanji": "職場",
+    "Romanji": "Shokuba",
+    "Vietnamese": "Nơi Làm Việc | Công Sở",
+    "English": "Workplace | Office"
+  },
+  {
+    "Kanji": "就職",
+    "Romanji": "Shūshoku",
+    "Vietnamese": "Xin Việc | Nhận Việc",
+    "English": "Finding Employment | Getting A Job"
+  },
+  {
+    "Kanji": "退学",
+    "Romanji": "Taigaku",
+    "Vietnamese": "Thôi Học | Bỏ Học",
+    "English": "Dropping Out Of School"
+  },
+  {
+    "Kanji": "退職",
+    "Romanji": "Taishoku",
+    "Vietnamese": "Nghỉ Việc | Thôi Việc",
+    "English": "Retirement | Resignation"
+  },
+  {
+    "Kanji": "退院",
+    "Romanji": "Taiin",
+    "Vietnamese": "Xuất Viện",
+    "English": "Leaving The Hospital | Discharge"
+  },
+  {
+    "Kanji": "退屈",
+    "Romanji": "Taikutsu",
+    "Vietnamese": "Buồn Tẻ | Chán Nản",
+    "English": "Boredom | Tedium"
+  },
+  {
+    "Kanji": "日常",
+    "Romanji": "Nichijō",
+    "Vietnamese": "Hàng Ngày | Thường Ngày",
+    "English": "Daily Routine | Everyday"
+  },
+  {
+    "Kanji": "通常",
+    "Romanji": "Tsūjō",
+    "Vietnamese": "Thông Thường | Bình Thường",
+    "English": "Normal | Usual"
+  },
+  {
+    "Kanji": "非常",
+    "Romanji": "Hijō",
+    "Vietnamese": "Khẩn Cấp | Phi Thường",
+    "English": "Emergency | Extraordinary"
+  },
+  {
+    "Kanji": "常識",
+    "Romanji": "Jōshiki",
+    "Vietnamese": "Thường Thức | Kiến Thức Phổ Thông",
+    "English": "Common Sense"
+  },
+  {
+    "Kanji": "失う",
+    "Romanji": "Ushinau",
+    "Vietnamese": "Đánh Mất | Mất",
+    "English": "To Lose | To Be Deprived Of"
+  },
+  {
+    "Kanji": "失礼",
+    "Romanji": "Shitsurei",
+    "Vietnamese": "Thất Lễ | Vô Lễ",
+    "English": "Rudeness | Excuse Me"
+  },
+  {
+    "Kanji": "失業",
+    "Romanji": "Shitsugyō",
+    "Vietnamese": "Thất Nghiệp",
+    "English": "Unemployment"
+  },
+  {
+    "Kanji": "失敗",
+    "Romanji": "Shippai",
+    "Vietnamese": "Thất Bại",
+    "English": "Failure | Mistake"
+  },
+  {
+    "Kanji": "お礼",
+    "Romanji": "Orei",
+    "Vietnamese": "Lời Cảm Ơn | Cảm Tạ",
+    "English": "Thank You | Gratitude"
+  },
+  {
+    "Kanji": "礼儀",
+    "Romanji": "Reigi",
+    "Vietnamese": "Lễ Nghi | Phép Lịch Sự",
+    "English": "Manners | Courtesy"
+  },
+  {
+    "Kanji": "無礼",
+    "Romanji": "Burei",
+    "Vietnamese": "Vô Lễ",
+    "English": "Rudeness | Impoliteness"
+  },
+  {
+    "Kanji": "給料",
+    "Romanji": "Kyūryō",
+    "Vietnamese": "Tiền Lương",
+    "English": "Salary | Pay"
+  },
+  {
+    "Kanji": "月給",
+    "Romanji": "Gekkyū",
+    "Vietnamese": "Lương Tháng",
+    "English": "Monthly Salary"
+  },
+  {
+    "Kanji": "日給",
+    "Romanji": "Nikkyū",
+    "Vietnamese": "Lương Ngày",
+    "English": "Daily Wage"
+  },
+  {
+    "Kanji": "年給",
+    "Romanji": "Nenkyū",
+    "Vietnamese": "Lương Năm",
+    "English": "Annual Salary"
+  },
+  {
+    "Kanji": "収入",
+    "Romanji": "Shūnyū",
+    "Vietnamese": "Thu Nhập | Doanh Thu",
+    "English": "Income | Revenue"
+  },
+  {
+    "Kanji": "回収",
+    "Romanji": "Kaishū",
+    "Vietnamese": "Thu Hồi | Thu Gom",
+    "English": "Collection | Recovery"
+  },
+  {
+    "Kanji": "〜が積る",
+    "Romanji": "Ga Tsumoru",
+    "Vietnamese": "Tích Tụ | Chất Chồng",
+    "English": "To Accumulate | To Pile Up"
+  },
+  {
+    "Kanji": "〜を積む",
+    "Romanji": "O Tsumu",
+    "Vietnamese": "Chất Lên | Tích Lũy",
+    "English": "To Load | To Pile Up"
+  },
+  {
+    "Kanji": "面積",
+    "Romanji": "Menseki",
+    "Vietnamese": "Diện Tích",
+    "English": "Area | Surface Area"
+  },
+  {
+    "Kanji": "積極的",
+    "Romanji": "Sekkyokuteki",
+    "Vietnamese": "Tích Cực",
+    "English": "Positive | Proactive"
+  },
+  {
+    "Kanji": "求める",
+    "Romanji": "Motomeru",
+    "Vietnamese": "Tìm Kiếm | Yêu Cầu",
+    "English": "To Seek | To Request"
+  },
+  {
+    "Kanji": "求人",
+    "Romanji": "Kyūjin",
+    "Vietnamese": "Tuyển Dụng",
+    "English": "Job Offer | Recruitment"
+  },
+  {
+    "Kanji": "要求",
+    "Romanji": "Yōkyū",
+    "Vietnamese": "Yêu Cầu",
+    "English": "Demand | Request"
+  },
+  {
+    "Kanji": "請求",
+    "Romanji": "Seikyū",
+    "Vietnamese": "Yêu Cầu | Hóa Đơn",
+    "English": "Claim | Bill"
+  },
+  {
+    "Kanji": "仕事",
+    "Romanji": "Shigoto",
+    "Vietnamese": "Công Việc",
+    "English": "Work | Job"
+  },
+  {
+    "Kanji": "仕方",
+    "Romanji": "Shikata",
+    "Vietnamese": "Cách Làm | Phương Pháp",
+    "English": "Method | Way Of Doing"
+  },
+  {
+    "Kanji": "探す",
+    "Romanji": "Sagasu",
+    "Vietnamese": "Tìm Kiếm",
+    "English": "To Search | To Look For"
+  },
+  {
+    "Kanji": "探る",
+    "Romanji": "Saguru",
+    "Vietnamese": "Thăm Dò | Điều Tra",
+    "English": "To Search | To Explore"
+  },
+  {
+    "Kanji": "労働",
+    "Romanji": "Rōdō",
+    "Vietnamese": "Lao Động",
+    "English": "Labor | Work"
+  },
+  {
+    "Kanji": "苦労",
+    "Romanji": "Kurō",
+    "Vietnamese": "Khổ Lao | Vất Vả",
+    "English": "Trouble | Hardship"
+  },
+  {
+    "Kanji": "過労死",
+    "Romanji": "Karōshi",
+    "Vietnamese": "Chết Vì Làm Việc Quá Sức",
+    "English": "Death From Overwork"
+  },
+  {
+    "Kanji": "店員",
+    "Romanji": "Ten'in",
+    "Vietnamese": "Nhân Viên Cửa Hàng",
+    "English": "Shop Assistant | Clerk"
+  },
+  {
+    "Kanji": "会員",
+    "Romanji": "Kaiin",
+    "Vietnamese": "Hội Viên | Thành Viên",
+    "English": "Member"
+  },
+  {
+    "Kanji": "駅員",
+    "Romanji": "Ekiin",
+    "Vietnamese": "Nhân Viên Nhà Ga",
+    "English": "Station Employee"
+  },
+  {
+    "Kanji": "全員",
+    "Romanji": "Zen'in",
+    "Vietnamese": "Toàn Bộ Mọi Người",
+    "English": "All Members | Everyone"
+  },
+  {
+    "Kanji": "郵便局",
+    "Romanji": "Yūbinkyoku",
+    "Vietnamese": "Bưu Điện",
+    "English": "Post Office"
+  },
+  {
+    "Kanji": "放送局",
+    "Romanji": "Hōsōkyoku",
+    "Vietnamese": "Đài Phát Thanh | Đài Truyền Hình",
+    "English": "Broadcasting Station"
+  },
+  {
+    "Kanji": "警察局",
+    "Romanji": "Keisatsukyoku",
+    "Vietnamese": "Cục Cảnh Sát",
+    "English": "Police Bureau"
+  },
+  {
+    "Kanji": "辞める",
+    "Romanji": "Yameru",
+    "Vietnamese": "Nghỉ Việc | Bỏ",
+    "English": "To Quit | To Resign"
+  },
+  {
+    "Kanji": "お世辞",
+    "Romanji": "Oseji",
+    "Vietnamese": "Nịnh Nọt | Lời Khen",
+    "English": "Flattery | Compliment"
+  },
+  {
+    "Kanji": "辞職",
+    "Romanji": "Jishoku",
+    "Vietnamese": "Từ Chức",
+    "English": "Resignation"
+  },
+  {
+    "Kanji": "支える",
+    "Romanji": "Sasaeru",
+    "Vietnamese": "Hỗ Trợ | Chống Đỡ",
+    "English": "To Support | To Sustain"
+  },
+  {
+    "Kanji": "支店",
+    "Romanji": "Shiten",
+    "Vietnamese": "Chi Nhánh",
+    "English": "Branch Office"
+  },
+  {
+    "Kanji": "支配",
+    "Romanji": "Shihai",
+    "Vietnamese": "Chi Phối | Thống Trị",
+    "English": "Control | Domination"
+  },
+  {
+    "Kanji": "支払う",
+    "Romanji": "Shiharau",
+    "Vietnamese": "Thanh Toán | Chi Trả",
+    "English": "To Pay"
+  },
+  {
+    "Kanji": "厚い",
+    "Romanji": "Atsui",
+    "Vietnamese": "Dày",
+    "English": "Thick"
+  },
+  {
+    "Kanji": "厚生",
+    "Romanji": "Kōsei",
+    "Vietnamese": "Phúc Lợi | Hạnh Phúc",
+    "English": "Welfare | Well-being"
+  },
+  {
+    "Kanji": "温厚",
+    "Romanji": "Onkō",
+    "Vietnamese": "Hiền Hậu | Ôn Hòa",
+    "English": "Gentle | Mild-mannered"
+  },
+  {
+    "Kanji": "警官",
+    "Romanji": "Keikan",
+    "Vietnamese": "Cảnh Sát Viên",
+    "English": "Policeman | Police Officer"
+  },
+  {
+    "Kanji": "外交官",
+    "Romanji": "Gaikōkan",
+    "Vietnamese": "Nhà Ngoại Giao | Viên Chức Ngoại Giao",
+    "English": "Diplomat | Foreign Service Officer"
+  },
+  {
+    "Kanji": "会議",
+    "Romanji": "Kaigi",
+    "Vietnamese": "Cuộc Họp | Hội Nghị",
+    "English": "Meeting | Conference"
+  },
+  {
+    "Kanji": "議論",
+    "Romanji": "Giron",
+    "Vietnamese": "Thảo Luận | Bàn Bạc",
+    "English": "Discussion | Argument"
+  },
+  {
+    "Kanji": "国会議員",
+    "Romanji": "Kokkai Giin",
+    "Vietnamese": "Nghị Sĩ Quốc Hội",
+    "English": "Member Of The Diet | Congressman"
+  },
+  {
+    "Kanji": "認める",
+    "Romanji": "Mitomeru",
+    "Vietnamese": "Công Nhận | Thừa Nhận",
+    "English": "To Recognize | To Approve"
+  },
+  {
+    "Kanji": "認識",
+    "Romanji": "Ninshiki",
+    "Vietnamese": "Nhận Thức | Công Nhận",
+    "English": "Recognition | Awareness"
+  },
+  {
+    "Kanji": "確認",
+    "Romanji": "Kakunin",
+    "Vietnamese": "Xác Nhận | Kiểm Tra",
+    "English": "Confirmation | Verification"
+  },
+  {
+    "Kanji": "面談",
+    "Romanji": "Mendan",
+    "Vietnamese": "Gặp Mặt | Phỏng Vấn",
+    "English": "Interview | Meeting"
+  },
+  {
+    "Kanji": "対談",
+    "Romanji": "Taidan",
+    "Vietnamese": "Đối Thoại | Phỏng Vấn",
+    "English": "Dialogue | Talk"
+  },
+  {
+    "Kanji": "談話",
+    "Romanji": "Danwa",
+    "Vietnamese": "Đàm Thoại | Bài Phát Biểu",
+    "English": "Talk | Conversation | Statement"
+  },
+  {
+    "Kanji": "雑談",
+    "Romanji": "Zatsudan",
+    "Vietnamese": "Nói Chuyện Phiếm | Tán Gẫu",
+    "English": "Chat | Small Talk"
+  },
+  {
+    "Kanji": "連絡",
+    "Romanji": "Renraku",
+    "Vietnamese": "Liên Lạc",
+    "English": "Contact | Communication"
+  },
+  {
+    "Kanji": "国連",
+    "Romanji": "Kokuren",
+    "Vietnamese": "Liên Hợp Quốc",
+    "English": "United Nations"
+  },
+  {
+    "Kanji": "連休",
+    "Romanji": "Renkyū",
+    "Vietnamese": "Ngày Nghỉ Dài Ngày",
+    "English": "Consecutive Holidays"
+  },
+  {
+    "Kanji": "関連",
+    "Romanji": "Kanren",
+    "Vietnamese": "Liên Quan | Quan Hệ",
+    "English": "Relation | Connection"
+  },
+  {
+    "Kanji": "断る",
+    "Romanji": "Kotowaru",
+    "Vietnamese": "Từ Chối | Xin Phép",
+    "English": "To Refuse | To Decline"
+  },
+  {
+    "Kanji": "中断",
+    "Romanji": "Chūdan",
+    "Vietnamese": "Gián Đoạn | Tạm Dừng",
+    "English": "Interruption | Suspension"
+  },
+  {
+    "Kanji": "断水",
+    "Romanji": "Dansui",
+    "Vietnamese": "Cắt Nước | Mất Nước",
+    "English": "Water Shut-off"
+  },
+  {
+    "Kanji": "判断",
+    "Romanji": "Handan",
+    "Vietnamese": "Phán Đoán | Quyết Định",
+    "English": "Judgment | Decision"
+  },
+  {
+    "Kanji": "反対",
+    "Romanji": "Hantai",
+    "Vietnamese": "Phản Đối | Trái Lại",
+    "English": "Opposition | Opposite"
+  },
+  {
+    "Kanji": "反省",
+    "Romanji": "Hansei",
+    "Vietnamese": "Kiểm Điểm | Hối Lỗi",
+    "English": "Reflection | Self-examination"
+  },
+  {
+    "Kanji": "反応",
+    "Romanji": "Han'nō",
+    "Vietnamese": "Phản Ứng",
+    "English": "Reaction | Response"
+  },
+  {
+    "Kanji": "保つ",
+    "Romanji": "Tamotsu",
+    "Vietnamese": "Giữ | Bảo Toàn",
+    "English": "To Keep | To Preserve"
+  },
+  {
+    "Kanji": "保険",
+    "Romanji": "Hoken",
+    "Vietnamese": "Bảo Hiểm",
+    "English": "Insurance"
+  },
+  {
+    "Kanji": "保護",
+    "Romanji": "Hogo",
+    "Vietnamese": "Bảo Hộ | Bảo Vệ",
+    "English": "Protection | Conservation"
+  },
+  {
+    "Kanji": "留学",
+    "Romanji": "Ryūgaku",
+    "Vietnamese": "Du Học",
+    "English": "Studying Abroad"
+  },
+  {
+    "Kanji": "留意",
+    "Romanji": "Ryūi",
+    "Vietnamese": "Lưu Ý | Chú Ý",
+    "English": "Attention | Heed"
+  },
+  {
+    "Kanji": "留守",
+    "Romanji": "Rusu",
+    "Vietnamese": "Vắng Nhà",
+    "English": "Absence From Home"
+  },
+  {
+    "Kanji": "否定",
+    "Romanji": "Hitei",
+    "Vietnamese": "Phủ Định",
+    "English": "Negation | Denial"
+  },
+  {
+    "Kanji": "否認",
+    "Romanji": "Hinin",
+    "Vietnamese": "Phủ Nhận",
+    "English": "Denial | Disclaimer"
+  },
+  {
+    "Kanji": "肯定",
+    "Romanji": "Kōtei",
+    "Vietnamese": "Khẳng Định",
+    "English": "Affirmation | Asserting"
+  },
+  {
+    "Kanji": "賛成",
+    "Romanji": "Sansei",
+    "Vietnamese": "Tán Thành | Đồng Ý",
+    "English": "Agreement | Approval"
+  },
+  {
+    "Kanji": "判子",
+    "Romanji": "Hanko",
+    "Vietnamese": "Con Dấu | Con Triện",
+    "English": "Seal | Stamp"
+  },
+  {
+    "Kanji": "報告",
+    "Romanji": "Hōkoku",
+    "Vietnamese": "Báo Cáo",
+    "English": "Report | Information"
+  },
+  {
+    "Kanji": "情報",
+    "Romanji": "Jōhō",
+    "Vietnamese": "Thông Tin",
+    "English": "Information"
+  },
+  {
+    "Kanji": "予報",
+    "Romanji": "Yohō",
+    "Vietnamese": "Dự Báo",
+    "English": "Forecast | Prediction"
+  },
+  {
+    "Kanji": "広告",
+    "Romanji": "Kōkoku",
+    "Vietnamese": "Quảng Cáo",
+    "English": "Advertisement"
+  },
+  {
+    "Kanji": "告白",
+    "Romanji": "Kokuhaku",
+    "Vietnamese": "Thổ Lộ | Thú Nhận",
+    "English": "Confession | Acknowledgement"
+  },
+  {
+    "Kanji": "相手",
+    "Romanji": "Aite",
+    "Vietnamese": "Đối Phương | Đối Tác",
+    "English": "Partner | Opponent"
+  },
+  {
+    "Kanji": "相談",
+    "Romanji": "Sōdan",
+    "Vietnamese": "Thảo Luận | Tham Khảo",
+    "English": "Consultation | Discussion"
+  },
+  {
+    "Kanji": "首相",
+    "Romanji": "Shushō",
+    "Vietnamese": "Thủ Tướng",
+    "English": "Prime Minister"
+  },
+  {
+    "Kanji": "指",
+    "Romanji": "Yubi",
+    "Vietnamese": "Ngón Tay",
+    "English": "Finger | Toe"
+  },
+  {
+    "Kanji": "指す",
+    "Romanji": "Sasu",
+    "Vietnamese": "Chỉ | Hướng Đến",
+    "English": "To Point | To Indicate"
+  },
+  {
+    "Kanji": "指導",
+    "Romanji": "Shidō",
+    "Vietnamese": "Chỉ Đạo | Hướng Dẫn",
+    "English": "Guidance | Leadership"
+  },
+  {
+    "Kanji": "示す",
+    "Romanji": "Shimesu",
+    "Vietnamese": "Chỉ Ra | Biểu Thị",
+    "English": "To Show | To Indicate"
+  },
+  {
+    "Kanji": "指示",
+    "Romanji": "Shiji",
+    "Vietnamese": "Chỉ Thị | Hướng Dẫn",
+    "English": "Instruction | Direction"
+  },
+  {
+    "Kanji": "暗示",
+    "Romanji": "Anji",
+    "Vietnamese": "Ám Chỉ | Gợi Ý",
+    "English": "Suggestion | Hint"
+  },
+  {
+    "Kanji": "明確",
+    "Romanji": "Meikaku",
+    "Vietnamese": "Rõ Ràng | Minh Bạch",
+    "English": "Clear | Precise"
+  },
+  {
+    "Kanji": "正確",
+    "Romanji": "Seikaku",
+    "Vietnamese": "Chính Xác | Đúng",
+    "English": "Accurate | Correct"
+  },
+  {
+    "Kanji": "最高",
+    "Romanji": "Saikō",
+    "Vietnamese": "Cao Nhất | Tốt Nhất",
+    "English": "Highest | Best"
+  },
+  {
+    "Kanji": "最低",
+    "Romanji": "Saitei",
+    "Vietnamese": "Thấp Nhất | Tệ Nhất",
+    "English": "Lowest | Worst"
+  },
+  {
+    "Kanji": "最初",
+    "Romanji": "Saisho",
+    "Vietnamese": "Đầu Tiên | Ban Đầu",
+    "English": "First | Beginning"
+  },
+  {
+    "Kanji": "最後",
+    "Romanji": "Saigo",
+    "Vietnamese": "Cuối Cùng",
+    "English": "Last | End"
+  },
+  {
+    "Kanji": "費やす",
+    "Romanji": "Tsuiyasu",
+    "Vietnamese": "Tiêu Tốn | Sử Dụng",
+    "English": "To Spend | To Consume"
+  },
+  {
+    "Kanji": "費える",
+    "Romanji": "Tsuiyasu",
+    "Vietnamese": "Tiêu Tốn | Hết",
+    "English": "To Be Spent | To Be Used Up"
+  },
+  {
+    "Kanji": "会費",
+    "Romanji": "Kaihi",
+    "Vietnamese": "Hội Phí",
+    "English": "Membership Fee"
+  },
+  {
+    "Kanji": "食費",
+    "Romanji": "Shokuhi",
+    "Vietnamese": "Chi Phí Ăn Uống | Tiền Ăn",
+    "English": "Food Expense | Cost Of Food"
+  },
+  {
+    "Kanji": "税金",
+    "Romanji": "Zeikin",
+    "Vietnamese": "Tiền Thuế",
+    "English": "Tax | Duty"
+  },
+  {
+    "Kanji": "消費税",
+    "Romanji": "Shōhizei",
+    "Vietnamese": "Thuế Tiêu Thụ",
+    "English": "Consumption Tax"
+  },
+  {
+    "Kanji": "所得税",
+    "Romanji": "Shotokuzei",
+    "Vietnamese": "Thuế Thu Nhập",
+    "English": "Income Tax"
+  },
+  {
+    "Kanji": "増税",
+    "Romanji": "Zōzei",
+    "Vietnamese": "Tăng Thuế",
+    "English": "Tax Increase"
+  },
+  {
+    "Kanji": "管理",
+    "Romanji": "Kanri",
+    "Vietnamese": "Quản Lý | Điều Hành",
+    "English": "Management | Control"
+  },
+  {
+    "Kanji": "管理人",
+    "Romanji": "Kanrinin",
+    "Vietnamese": "Người Quản Lý",
+    "English": "Caretaker | Manager"
+  },
+  {
+    "Kanji": "保管",
+    "Romanji": "Hokan",
+    "Vietnamese": "Bảo Quản | Lưu Trữ",
+    "English": "Custody | Storage"
+  },
+  {
+    "Kanji": "計算",
+    "Romanji": "Keisan",
+    "Vietnamese": "Tính Toán",
+    "English": "Calculation | Tally"
+  },
+  {
+    "Kanji": "足し算",
+    "Romanji": "Tashizan",
+    "Vietnamese": "Phép Cộng",
+    "English": "Addition"
+  },
+  {
+    "Kanji": "引き算",
+    "Romanji": "Hikizan",
+    "Vietnamese": "Phép Trừ",
+    "English": "Subtraction"
+  },
+  {
+    "Kanji": "提供",
+    "Romanji": "Teikyō",
+    "Vietnamese": "Cung Cấp | Đề Xuất",
+    "English": "Offer | Provide"
+  },
+  {
+    "Kanji": "子供",
+    "Romanji": "Kodomo",
+    "Vietnamese": "Trẻ Em",
+    "English": "Child | Kid"
+  },
+  {
+    "Kanji": "医者",
+    "Romanji": "Isha",
+    "Vietnamese": "Bác Sĩ",
+    "English": "Doctor | Physician"
+  },
+  {
+    "Kanji": "学者",
+    "Romanji": "Gakusha",
+    "Vietnamese": "Học Giả | Nhà Khoa Học",
+    "English": "Scholar | Academic"
+  },
+  {
+    "Kanji": "患者",
+    "Romanji": "Kanja",
+    "Vietnamese": "Bệnh Nhân",
+    "English": "Patient"
+  },
+  {
+    "Kanji": "現在",
+    "Romanji": "Genzai",
+    "Vietnamese": "Hiện Tại | Bây Giờ",
+    "English": "Present Time | Current"
+  },
+  {
+    "Kanji": "現金",
+    "Romanji": "Genkin",
+    "Vietnamese": "Tiền Mặt",
+    "English": "Cash"
+  },
+  {
+    "Kanji": "〜が現れる",
+    "Romanji": "Ga Arawareru",
+    "Vietnamese": "Xuất Hiện | Lộ Ra",
+    "English": "To Appear | To Show Up"
+  },
+  {
+    "Kanji": "表現",
+    "Romanji": "Hyōgen",
+    "Vietnamese": "Biểu Hiện | Thể Hiện",
+    "English": "Expression | Presentation"
+  },
+  {
+    "Kanji": "旧正月",
+    "Romanji": "Kyūshōgatsu",
+    "Vietnamese": "Tết Âm Lịch | Tết Nguyên Đán",
+    "English": "Lunar New Year | Old New Year"
+  },
+  {
+    "Kanji": "復旧",
+    "Romanji": "Fukkyū",
+    "Vietnamese": "Phục Hồi | Khôi Phục",
+    "English": "Restoration | Repair"
+  },
+  {
+    "Kanji": "昔話",
+    "Romanji": "Mukashibanashi",
+    "Vietnamese": "Truyện Cổ Tích | Chuyện Ngày Xưa",
+    "English": "Fairy Tale | Old Story"
+  },
+  {
+    "Kanji": "大昔",
+    "Romanji": "Ōmukashi",
+    "Vietnamese": "Ngày Xửa Ngày Xưa | Xưa Lắm",
+    "English": "Ancient Times | Far Past"
+  },
+  {
+    "Kanji": "今昔",
+    "Romanji": "Konjaku",
+    "Vietnamese": "Xưa Và Nay",
+    "English": "Past And Present"
+  },
+  {
+    "Kanji": "次",
+    "Romanji": "Tsugi",
+    "Vietnamese": "Tiếp Theo | Lần Sau",
+    "English": "Next | Following"
+  },
+  {
+    "Kanji": "次回",
+    "Romanji": "Jikai",
+    "Vietnamese": "Lần Sau",
+    "English": "Next Time"
+  },
+  {
+    "Kanji": "次第",
+    "Romanji": "Shidai",
+    "Vietnamese": "Tùy Thuộc | Dần Dần",
+    "English": "Dependent On | Gradually"
+  },
+  {
+    "Kanji": "目次",
+    "Romanji": "Mokuji",
+    "Vietnamese": "Mục Lục",
+    "English": "Table Of Contents"
+  },
+  {
+    "Kanji": "億",
+    "Romanji": "Oku",
+    "Vietnamese": "Trăm Triệu",
+    "English": "One Hundred Million"
+  },
+  {
+    "Kanji": "数億",
+    "Romanji": "Sūoku",
+    "Vietnamese": "Vài Trăm Triệu",
+    "English": "Several Hundred Million"
+  },
+  {
+    "Kanji": "億万長者",
+    "Romanji": "Okumanchōja",
+    "Vietnamese": "Tỷ Phú",
+    "English": "Billionaire | Millionaire"
+  },
+  {
+    "Kanji": "兆し",
+    "Romanji": "Kizashi",
+    "Vietnamese": "Dấu Hiệu | Triệu Chứng",
+    "English": "Sign | Omen"
+  },
+  {
+    "Kanji": "兆",
+    "Romanji": "Chō",
+    "Vietnamese": "Nghìn Tỷ",
+    "English": "Trillion"
+  },
+  {
+    "Kanji": "副社長",
+    "Romanji": "Fukushachō",
+    "Vietnamese": "Phó Giám Đốc | Phó Chủ Tịch",
+    "English": "Vice President"
+  },
+  {
+    "Kanji": "副作用",
+    "Romanji": "Fukusayō",
+    "Vietnamese": "Tác Dụng Phụ",
+    "English": "Side Effect"
+  },
+  {
+    "Kanji": "副収入",
+    "Romanji": "Fukushūnyū",
+    "Vietnamese": "Thu Nhập Phụ",
+    "English": "Side Income | Supplementary Income"
+  },
+  {
+    "Kanji": "生産",
+    "Romanji": "Seisan",
+    "Vietnamese": "Sản Xuất",
+    "English": "Production | Manufacture"
+  },
+  {
+    "Kanji": "出産",
+    "Romanji": "Shussan",
+    "Vietnamese": "Sinh Sản | Sinh Đẻ",
+    "English": "Childbirth | Delivery"
+  },
+  {
+    "Kanji": "産業",
+    "Romanji": "Sangyō",
+    "Vietnamese": "Công Nghiệp | Sản Nghiệp",
+    "English": "Industry | Business"
+  },
+  {
+    "Kanji": "不動産",
+    "Romanji": "Fudōsan",
+    "Vietnamese": "Bất Động Sản",
+    "English": "Real Estate | Property"
+  },
+  {
+    "Kanji": "〜を編む",
+    "Romanji": "O Amu",
+    "Vietnamese": "Đan | Bện | Soạn",
+    "English": "To Knit | To Braid | To Edit"
+  },
+  {
+    "Kanji": "編集",
+    "Romanji": "Henshū",
+    "Vietnamese": "Biên Tập | Chỉnh Sửa",
+    "English": "Editing | Compilation"
+  },
+  {
+    "Kanji": "長編",
+    "Romanji": "Chōhen",
+    "Vietnamese": "Truyện Dài | Phim Dài",
+    "English": "Long Work | Feature Length"
+  },
+  {
+    "Kanji": "短編",
+    "Romanji": "Tanpen",
+    "Vietnamese": "Truyện Ngắn | Phim Ngắn",
+    "English": "Short Work | Short Story"
+  },
+  {
+    "Kanji": "貧しい",
+    "Romanji": "Mazushii",
+    "Vietnamese": "Nghèo Khổ",
+    "English": "Poor | Needy"
+  },
+  {
+    "Kanji": "貧困",
+    "Romanji": "Hinkon",
+    "Vietnamese": "Bần Cùng | Nghèo Đói",
+    "English": "Poverty | Indigence"
+  },
+  {
+    "Kanji": "貧血",
+    "Romanji": "Hinketsu",
+    "Vietnamese": "Thiếu Máu",
+    "English": "Anemia"
+  },
+  {
+    "Kanji": "貧乏",
+    "Romanji": "Binbō",
+    "Vietnamese": "Nghèo Nàn",
+    "English": "Poor | Destitute"
+  },
+  {
+    "Kanji": "富士山",
+    "Romanji": "Fujisan",
+    "Vietnamese": "Núi Phú Sĩ",
+    "English": "Mount Fuji"
+  },
+  {
+    "Kanji": "貧富",
+    "Romanji": "Hinpu",
+    "Vietnamese": "Giàu Nghèo",
+    "English": "Wealth And Poverty"
+  },
+  {
+    "Kanji": "富国",
+    "Romanji": "Fukoku",
+    "Vietnamese": "Nước Giàu Mạnh",
+    "English": "Wealthy Nation"
+  },
+  {
+    "Kanji": "富む",
+    "Romanji": "Tomu",
+    "Vietnamese": "Giàu Có | Phong Phú",
+    "English": "To Be Rich | To Be Abundant"
+  },
+  {
+    "Kanji": "豊か",
+    "Romanji": "Yutaka",
+    "Vietnamese": "Phong Phú | Giàu Có",
+    "English": "Abundant | Wealthy"
+  },
+  {
+    "Kanji": "豊富",
+    "Romanji": "Hōfu",
+    "Vietnamese": "Phong Phú | Dồi Dào",
+    "English": "Abundant | Rich"
+  },
+  {
+    "Kanji": "豊作",
+    "Romanji": "Hōsaku",
+    "Vietnamese": "Mùa Màng Bội Thu",
+    "English": "Good Harvest"
+  },
+  {
+    "Kanji": "農業",
+    "Romanji": "Nōgyō",
+    "Vietnamese": "Nông Nghiệp",
+    "English": "Agriculture"
+  },
+  {
+    "Kanji": "農村",
+    "Romanji": "Nōson",
+    "Vietnamese": "Nông Thôn | Làng Xã",
+    "English": "Farm Village | Rural Area"
+  },
+  {
+    "Kanji": "農家",
+    "Romanji": "Nōka",
+    "Vietnamese": "Nhà Nông | Nông Dân",
+    "English": "Farmer | Farm Family"
+  },
+  {
+    "Kanji": "危ない",
+    "Romanji": "Abunai",
+    "Vietnamese": "Nguy Hiểm",
+    "English": "Dangerous | Risky"
+  },
+  {
+    "Kanji": "危険",
+    "Romanji": "Kiken",
+    "Vietnamese": "Nguy Hiểm",
+    "English": "Danger | Peril"
+  },
+  {
+    "Kanji": "険しい",
+    "Romanji": "Kewashii",
+    "Vietnamese": "Hiểm Trở | Nghiêm Khắc",
+    "English": "Steep | Severe"
+  },
+  {
+    "Kanji": "保険",
+    "Romanji": "Hoken",
+    "Vietnamese": "Bảo Hiểm",
+    "English": "Insurance"
+  },
+  {
+    "Kanji": "冒険",
+    "Romanji": "Bōken",
+    "Vietnamese": "Mạo Hiểm",
+    "English": "Adventure | Risk"
+  },
+  {
+    "Kanji": "技術",
+    "Romanji": "Gijutsu",
+    "Vietnamese": "Kỹ Thuật",
+    "English": "Technique | Skill"
+  },
+  {
+    "Kanji": "特技",
+    "Romanji": "Tokugi",
+    "Vietnamese": "Kỹ Năng Đặc Biệt | Sở Trường",
+    "English": "Special Skill | Talent"
+  },
+  {
+    "Kanji": "手術",
+    "Romanji": "Shujutsu",
+    "Vietnamese": "Phẫu Thuật | Mổ",
+    "English": "Surgery | Operation"
+  },
+  {
+    "Kanji": "美術",
+    "Romanji": "Bijutsu",
+    "Vietnamese": "Mỹ Thuật",
+    "English": "Fine Arts"
+  },
+  {
+    "Kanji": "学術",
+    "Romanji": "Gakujutsu",
+    "Vietnamese": "Học Thuật | Khoa Học",
+    "English": "Science | Scholarship"
+  },
+  {
+    "Kanji": "芸術",
+    "Romanji": "Geijutsu",
+    "Vietnamese": "Nghệ Thuật",
+    "English": "Art"
+  },
+  {
+    "Kanji": "機会",
+    "Romanji": "Kikai",
+    "Vietnamese": "Cơ Hội",
+    "English": "Chance | Opportunity"
+  },
+  {
+    "Kanji": "機械",
+    "Romanji": "Kikai",
+    "Vietnamese": "Máy Móc | Cơ Khí",
+    "English": "Machine | Mechanism"
+  },
+  {
+    "Kanji": "木綿",
+    "Romanji": "Momen",
+    "Vietnamese": "Vải Bông | Cotton",
+    "English": "Cotton"
+  },
+  {
+    "Kanji": "布",
+    "Romanji": "Nuno",
+    "Vietnamese": "Vải",
+    "English": "Cloth | Fabric"
+  },
+  {
+    "Kanji": "布団",
+    "Romanji": "Futon",
+    "Vietnamese": "Chăn Nệm Kiểu Nhật",
+    "English": "Futon | Japanese Bedding"
+  },
+  {
+    "Kanji": "皮",
+    "Romanji": "Kawa",
+    "Vietnamese": "Da | Vỏ",
+    "English": "Skin | Leather | Peel"
+  },
+  {
+    "Kanji": "毛皮",
+    "Romanji": "Kegawa",
+    "Vietnamese": "Lông Thú | Da Lông",
+    "English": "Fur | Pelt"
+  },
+  {
+    "Kanji": "皮肉",
+    "Romanji": "Hiniku",
+    "Vietnamese": "Mỉa Mai | Châm Biếm",
+    "English": "Irony | Sarcasm"
+  },
+  {
+    "Kanji": "皮製品",
+    "Romanji": "Kawaseihin",
+    "Vietnamese": "Sản Phẩm Bằng Da",
+    "English": "Leather Goods"
+  },
+  {
+    "Kanji": "等しい",
+    "Romanji": "Hitoshii",
+    "Vietnamese": "Bằng Nhau | Tương Đương",
+    "English": "Equal | Same"
+  },
+  {
+    "Kanji": "平等",
+    "Romanji": "Byōdō",
+    "Vietnamese": "Bình Đẳng",
+    "English": "Equality | Impartiality"
+  },
+  {
+    "Kanji": "高等学校",
+    "Romanji": "Kōtō Gakkō",
+    "Vietnamese": "Trường Trung Học Phổ Thông",
+    "English": "High School"
+  },
+  {
+    "Kanji": "貿易",
+    "Romanji": "Bōeki",
+    "Vietnamese": "Thương Mại | Ngoại Thương",
+    "English": "Trade | Commerce"
+  },
+  {
+    "Kanji": "自由貿易",
+    "Romanji": "Jiyū Bōeki",
+    "Vietnamese": "Thương Mại Tự Do",
+    "English": "Free Trade"
+  },
+  {
+    "Kanji": "商売",
+    "Romanji": "Shōbai",
+    "Vietnamese": "Kinh Doanh | Buôn Bán",
+    "English": "Trade | Business"
+  },
+  {
+    "Kanji": "商人",
+    "Romanji": "Shōnin",
+    "Vietnamese": "Thương Nhân | Người Buôn Bán",
+    "English": "Merchant | Trader"
+  },
+  {
+    "Kanji": "商業",
+    "Romanji": "Shōgyō",
+    "Vietnamese": "Thương Nghiệp | Thương Mại",
+    "English": "Commerce | Business"
+  },
+  {
+    "Kanji": "農業機械",
+    "Romanji": "Nōgyō Kikai",
+    "Vietnamese": "Máy Móc Nông Nghiệp",
+    "English": "Agricultural Machinery"
+  }
+]
