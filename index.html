@@ -57,6 +57,20 @@
         font-size: 1.8rem
       }
 
+      a {
+        all: unset;
+        border: 2px solid white;
+        border-radius: 8px;
+        padding: 6px 8px;
+      }
+
+      a:hover {
+        cursor: pointer;
+        border: 2px solid green;
+        background-color: white;
+        color: green;
+      }
+
       #mainHeader {
         background-color: var(--cardBg);
         color: var(--textColor);
@@ -351,6 +365,8 @@
     <header id="mainHeader">
       <div id="logo">🇯🇵</div>
       <nav id="navBar">
+        <a href="kotoba.html">Kotoba</a>
+        <a href="bunpou.html">Bunpou</a>
         <button class="navButton active" data-section="tableSection" onclick="showSection('tableSection',this)">Home</button>
         <button class="navButton" data-section="flashcardSection" onclick="showSection('flashcardSection',this)">Flashcards</button>
         <button class="navButton" data-section="quizSection" onclick="showSection('quizSection',this)">Quiz</button>
@@ -2759,12 +2775,15 @@
         const d = flashcardData[i];
         document.getElementById('cardKanji').textContent = d.Kanji;
         document.getElementById('cardBack').innerHTML = `
-						<p>
-							<strong>Kanji - Romanji:</strong> ${d.Kanji} - ${capitalizeFirstLetterOfWords(d.Romanji)}
-						</p>
-						<p>
-							<strong>English - Vietnamese:</strong> ${capitalizeFirstLetterOfWords(d.English)} - ${capitalizeFirstLetterOfWords(d.Vietnamese)}
-						</p>`;
+						
+					<p>
+						<strong>Kanji - Romanji:</strong> ${d.Kanji} - ${capitalizeFirstLetterOfWords(d.Romanji)}
+						
+					</p>
+					<p>
+						<strong>English - Vietnamese:</strong> ${capitalizeFirstLetterOfWords(d.English)} - ${capitalizeFirstLetterOfWords(d.Vietnamese)}
+						
+					</p>`;
         document.getElementById('flashcardElement').classList.remove('flipped')
       }
 
