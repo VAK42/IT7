@@ -62,6 +62,7 @@
         border: 2px solid white;
         border-radius: 8px;
         padding: 6px 8px;
+        margin: auto;
       }
 
       a:hover {
@@ -364,9 +365,11 @@
   <body>
     <header id="mainHeader">
       <div id="logo">🇯🇵</div>
-      <nav id="navBar">
+      <div>
         <a href="kotoba.html">Kotoba</a>
         <a href="bunpou.html">Bunpou</a>
+      </div>
+      <nav id="navBar">
         <button class="navButton active" data-section="tableSection" onclick="showSection('tableSection',this)">Home</button>
         <button class="navButton" data-section="flashcardSection" onclick="showSection('flashcardSection',this)">Flashcards</button>
         <button class="navButton" data-section="quizSection" onclick="showSection('quizSection',this)">Quiz</button>
