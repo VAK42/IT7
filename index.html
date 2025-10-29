@@ -2778,14 +2778,11 @@
         const d = flashcardData[i];
         document.getElementById('cardKanji').textContent = d.Kanji;
         document.getElementById('cardBack').innerHTML = `
-						
 					<p>
 						<strong>Kanji - Romanji:</strong> ${d.Kanji} - ${capitalizeFirstLetterOfWords(d.Romanji)}
-						
 					</p>
 					<p>
 						<strong>English - Vietnamese:</strong> ${capitalizeFirstLetterOfWords(d.English)} - ${capitalizeFirstLetterOfWords(d.Vietnamese)}
-						
 					</p>`;
         document.getElementById('flashcardElement').classList.remove('flipped')
       }
